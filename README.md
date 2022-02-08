@@ -11,7 +11,7 @@ This is a starter template that makes use of the following packages
 
 Please refer [Task](./Task.md) file the instructions.
 
-## Project setup
+## Project setup - installation
 ```
 npm install
 ```
